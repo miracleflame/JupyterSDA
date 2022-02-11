@@ -1,0 +1,121 @@
+rank,bank,country,total_assets_us_b,balance_sheet
+1,Industrial & Commercial Bank of China,China,"4,005.58",2017-12-31
+2,China Construction Bank Corp,China,"3,397.13",2017-12-31
+3,Agricultural Bank of China,China,"3,232.68",2017-12-31
+4,Bank of China,China,"2,989.16",2017-12-31
+5,Mitsubishi UFJ Financial Group,Japan,"2,773.82",2017-12-31
+6,JPMorgan Chase & Co,USA,"2,533.60",2017-12-31
+7,HSBC Holdings,UK,"2,521.77",2017-12-31
+8,BNP Paribas,France,"2,348.11",2017-12-31
+9,Bank of America,USA,"2,281.23",2017-12-31
+10,China Development Bank,China,"2,201.86",2016-12-31
+11,Credit Agricole Group,France,"2,112.04",2017-12-31
+12,Wells Fargo,USA,"1,951.76",2017-12-31
+13,Japan Post Bank,Japan,"1,873.50",2017-12-31
+14,Mizuho Financial Group,Japan,"1,850.10",2017-12-31
+15,Sumitomo Mitsui Financial Group,Japan,"1,847.47",2017-12-31
+16,Citigroup Inc,USA,"1,843.06",2017-12-31
+17,Deutsche Bank,Germany,"1,766.85",2017-12-31
+18,Banco Santander,Spain,"1,730.08",2017-12-31
+19,Barclays PLC,UK,"1,528.89",2017-12-31
+20,Societe Generale,France,"1,527.43",2017-12-31
+21,Groupe BPCE,France,"1,509.13",2017-12-31
+22,Bank of Communications,China,"1,387.79",2017-12-31
+23,Postal Savings Bank of China,China,"1,383.85",2017-12-31
+24,Lloyds Banking Group,UK,"1,095.64",2017-12-31
+25,Royal Bank of Canada,Canada,"1,028.72",2017-12-31
+26,ING Groep NV,Netherlands,"1,013.65",2017-12-31
+27,Toronto-Dominion Bank,Canada,"1,006.98",2017-12-31
+28,Norinchukin Bank,Japan,"1,006.70",2017-12-31
+29,UniCredit S.p.A.,Italy,"1,002.36",2017-12-31
+30,Royal Bank of Scotland Group,UK,995.729,2017-12-31
+31,Industrial Bank Co. Ltd,China,985.646,2017-12-31
+32,China Merchants Bank,China,966.117,2017-12-31
+33,Intesa Sanpaolo,Italy,954.531,2017-12-31
+34,Credit Mutuel,France,950.531,2016-12-31
+35,UBS Group AG,Switzerland,937.802,2017-12-31
+36,Shanghai Pudong Development Bank,China,942.777,2017-12-31
+37,Goldman Sachs Group,USA,916.787,2017-12-31
+38,Agricultural Development Bank of China,China,873.419,2017-06-30
+39,China Minsheng Banking Corp,China,859.407,2017-09-30
+40,Morgan Stanley,USA,851.733,2017-12-31
+41,China CITIC Bank Corp,China,832.996,2017-09-30
+42,BBVA,Spain,826.597,2017-12-31
+43,Credit Suisse Group,Switzerland,815.587,2017-12-31
+44,Bank of Nova Scotia,Canada,754.509,2017-12-31
+45,Commonwealth Bank of Australia,Australia,750.775,2017-12-31
+46,Rabobank Group,Netherlands,722.301,2017-12-31
+47,Australia & New Zealand Banking Group,Australia,700.352,2017-09-30
+48,Nordea,Sweden,695.795,2017-12-31
+49,European Investment Bank,Luxembourg,686.653,2016-12-31
+50,Westpac Banking Corp,Australia,664.878,2017-09-30
+51,Standard Chartered Plc,UK,663.501,2017-12-31
+52,National Australia Bank,Australia,615.516,2017-09-30
+53,China Everbright Bank,China,627.737,2017-12-31
+54,DZ Bank AG,Germany,605.64,2017-12-31
+55,Bank of Montreal,Canada,578.53,2017-12-31
+56,Sumitomo Mitsui Trust Holdings,Japan,569.949,2017-12-31
+57,Danske Bank,Denmark,569.335,2017-12-31
+58,KfW Group,Germany,565.392,2017-12-31
+59,Commerzbank,Germany,541.434,2017-12-31
+60,State Bank of India,India,534.903,2017-12-31
+61,Cassa Depositi e Prestiti (CDP),Italy,496.74,2017-06-30
+62,The Export-Import Bank of China (Eximbank),China,491.888,2016-12-31
+63,Canadian Imperial Bank of Commerce,Canada,483.791,2017-12-31
+64,Ping An Bank,China,481.75,2017-09-30
+65,ABN AMRO Group NV,Netherlands,470.965,2017-12-31
+66,Sberbank of Russia,Russia,470.181,2017-12-31
+67,U.S. Bancorp,USA,462.04,2017-12-31
+68,CaixaBank,Spain,459.005,2017-12-31
+69,Itau Unibanco Holding SA,Brazil,437.41,2017-12-31
+70,Resona Holdings,Japan,434.653,2017-12-31
+71,Banco do Brasil SA,Brazil,413.147,2017-12-31
+72,KB Financial Group,South Korea,409.01,2017-12-31
+73,Shinhan Financial Group,South Korea,399.197,2017-12-31
+74,Nomura Holdings,Japan,394.791,2017-12-31
+75,DBS Group Holdings,Singapore,387.252,2017-12-31
+76,Caixa Economica Federal,Brazil,383.261,2017-09-30
+77,PNC Financial Services Group,USA,380.768,2017-12-31
+78,Hua Xia Bank,China,375.543,2017-09-30
+79,Bank of New York Mellon Corp,USA,371.758,2017-12-31
+80,Shinkin Central Bank (SCB),Japan,371.313,2017-12-31
+81,Capital One Financial Corporation,USA,365.693,2017-12-31
+82,Banco Bradesco SA,Brazil,365.493,2017-12-31
+83,KBC Group NV,Belgium,350.186,2017-12-31
+84,Bank of Beijing,China,349.354,2017-09-30
+85,Oversea-Chinese Banking Corp (OCBC),Singapore,340.297,2017-12-31
+86,Hana Financial Group,South Korea,337.191,2017-12-31
+87,Svenska Handelsbanken,Sweden,336.691,2017-12-31
+88,NongHyup Financial Group,South Korea,333.156,2017-06-30
+89,Woori Bank,South Korea,332.893,2017-12-31
+90,DnB ASA,Norway,328.267,2017-12-31
+91,China Guangfa Bank (CGB),China,314.401,2016-12-31
+92,Skandinaviska Enskilda Banken,Sweden,311.457,2017-12-31
+93,Nationwide Building Society,UK,306.963,2017-09-30
+94,Cathay Financial Holding,Taiwan,293.554,2017-09-30
+95,Landesbank Baden-Wurttemberg,Germany,285.092,2017-12-31
+96,La Banque Postale,France,277.278,2017-12-31
+97,Bank of Shanghai,China,270.242,2017-09-30
+98,Swedbank,Sweden,269.238,2017-12-31
+99,United Overseas Bank (UOB),Singapore,268.23,2017-12-31
+100,Bank of Jiangsu,China,266.798,2017-09-30
+101,Banco Sabadell,Spain,265.145,2017-12-31
+102,Bayerische Landesbank,Germany,264.668,2017-06-30
+103,Erste Group Bank AG,Austria,264.319,2017-12-31
+104,Brazilian Development Bank (BNDES),Brazil,262.087,2017-09-30
+105,Industrial Bank of Korea,South Korea,256.641,2017-12-31
+106,Bankia,Spain,256.261,2017-12-31
+107,Charles Schwab Corp,USA,243.274,2017-12-31
+108,Dexia,Belgium,238.847,2017-06-30
+109,State Street Corp,USA,238.425,2017-12-31
+110,Raiffeisen Schweiz,Switzerland,233.677,2017-06-30
+111,Nykredit Group,Denmark,229.493,2017-12-31
+112,Fubon Financial Holding,Taiwan,225.911,2017-09-30
+113,VTB Bank,Russia,225.604,2017-12-31
+114,China ZheShang Bank (CZBank),China,223.148,2017-06-30
+115,BB&T Corporation,USA,221.642,2017-12-31
+116,Qatar National Bank,Qatar,221.18,2017-12-31
+117,National Bank of Canada,Canada,208.408,2017-12-31
+118,Suntrust Banks,USA,205.962,2017-12-31
+119,Korea Development Bank,South Korea,205.145,2016-12-31
+120,Belfius,Belgium,201.192,2017-12-31
