@@ -1,0 +1,16 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+div {
+    color: red;
+}
+
+#section {
+    color: purple;
+}
+
+.navigation {
+    color: blue;
+}
+

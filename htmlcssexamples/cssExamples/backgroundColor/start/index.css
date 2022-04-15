@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+h2 {
+    color: #fff;
+}
+
+.container {
+    max-width: 30rem;
+    width: 100%;
+    margin: 0 auto;
+}
+
+button {
+    border: 0;
+    padding: 1rem 2rem;
+}
+
+/*Don't change code above*/
+
+/*blue #0096E7*/
+/*red #FF5555*/
+
+#email {
+    /*...*/
+}

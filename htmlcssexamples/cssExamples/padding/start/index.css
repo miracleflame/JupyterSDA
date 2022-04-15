@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+h2 {
+    color: #fff;
+}
+
+.container {
+    max-width: 30rem;
+    width: 100%;
+    margin: 0 auto;
+}
+
+button {
+    background-color: #3C6FF8;
+    color: #fff;
+    border: 0;
+}
+
+
+/*Don't change code above*/

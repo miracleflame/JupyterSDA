@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+h2 {
+    color: #fff;
+}
+
+.container {
+    max-width: 30rem;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.container > main {
+    display: flex;
+    gap: 1rem;
+}
+
+.item {
+    background-color: #3C6FF8;
+    color: #fff;
+}
+
+.rem-family div {
+    padding: 1rem 2rem;
+}
+
+.em-family div {
+    padding: 1em 2em;
+}
+
+/*Don't change code above*/
+
+html {
+    font-size: 20px;
+}
+
+.em-family {
+    font-size: 25px;
+}
+
+.rem-family {
+    font-size: 25px;
+}

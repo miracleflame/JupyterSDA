@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+h2 {
+    color: #fff;
+}
+
+.container {
+    max-width: 30rem;
+    margin: 0 auto;
+}
+
+.container > section {
+    background-color: #3C6FF8;
+    padding: 1rem;
+    border: 1px solid #769fce;
+}
+
+.container > section + section {
+    margin-top: 1rem;
+}
+
+/*Don't change code above*/
+
+#first {
+
+}
+
+#second {
+
+}
+
+#third {
+
+}
+
+#fourth {
+
+}
+
+

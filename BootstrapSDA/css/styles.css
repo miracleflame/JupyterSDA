@@ -1,0 +1,126 @@
+body {
+    font-family: "Montserrat", sans-serif;
+    text-align: center;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 900;
+}
+
+p {}
+
+.hlavna {
+    background-color: rgba(2, 12, 24);
+}
+
+.main-title {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 900;
+    font-size: 3.5rem;
+    line-height: 1.5;
+    color: rgb(255, 255, 250);
+    padding-bottom: 5.5rem;
+}
+
+.vyhladavac {
+    padding: 0px;
+    margin: 0px;
+    border: none;
+    color: rgb(255, 255, 255);
+    font-size: 1.5rem;
+    font-weight: 900;
+    padding-left: 2rem;
+}
+
+.navbar-nav .nav-item .nav-link {
+    /* color: rgb(255, 249, 248); */
+}
+
+.navbar-nav .nav-item.active .nav-link,
+.navbar-nav .nav-item:hover .nav-link {
+    color: rgb(48, 170, 207);
+}
+
+.navbar-collapse {
+    text-align: left;
+}
+
+.navbar-nav>li {
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.nav-link:link {
+    border-bottom: 0.2px solid transparent;
+}
+
+.nav-link:hover,
+.nav-link:active {
+    border-bottom: 1px solid #e7eeee;
+}
+
+.navbar-brand {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 900;
+    font-size: 1.5rem;
+    color: rgb(255, 255, 255);
+}
+
+.navbar-brand:hover {
+    color: rgb(22, 182, 222);
+    border-bottom: 1px solid #e7eeee;
+}
+
+.nav-link {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 400;
+}
+
+.btn {
+    align-self: center;
+    margin: 4% 4% 4% 0;
+    padding: 1.5rem;
+}
+
+.main-row {
+    padding: 10% 10% 10% 10%;
+    /* margin: auto; */
+}
+
+.spodna-cast {
+    background-color: rgb(247, 245, 230);
+    padding-bottom: 3000px;
+}
+
+.fa-clapperboard {
+    margin-right: 10px;
+    color: rgb(38, 191, 215);
+}
+
+.sponsored-c {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 400;
+    padding-top: 3rem;
+    color: rgb(6, 22, 38);
+}
+
+.infotext {
+    padding-top: 500px;
+}
+
+.logo {
+    transform: scale(1.5);
+    padding-top: 1.5rem;
+}
+
+.fa-brands {
+    margin: 1.5rem;
+    padding-left: auto;
+    padding-right: auto;
+}

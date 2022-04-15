@@ -1,0 +1,20 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+h2 {
+    color: #fff;
+}
+
+.container {
+    max-width: 30rem;
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+p {
+    font-size: 1.5rem;
+}
+
+/*Don't change code above*/

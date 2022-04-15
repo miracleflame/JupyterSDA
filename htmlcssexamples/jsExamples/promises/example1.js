@@ -1,0 +1,1 @@
+// Vytvor promise
